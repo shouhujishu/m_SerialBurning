@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "m_SerialBurning": {
+      "commandName": "Project",
+      "commandLineArgs": "-w  -wm 60 -m COM5 -f C:\\Users\\shouh\\Desktop\\uni_app_release_update.bin"
+    }
+  }
+}
