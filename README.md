@@ -7,7 +7,7 @@ win环境烧录附带GUI工具无需命令调用,如果串口烧录引导失败�
 
 如果好用欢迎赞助:</br>
 支付宝:370142924@qq.com</br>
-<img src="https://raw.githubusercontent.com/shouhujishu/m_SerialBurning/master/zfb.jpg" width="300"  alt="支付宝"/>
+<img src="https://raw.githubusercontent.com/shouhujishu/m_SerialBurning/master/zfb.jpg" width="300"  alt="支付宝"/></br>
 <img src="https://github.com/shouhujishu/m_SerialBurning/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220426144522.png" width="300"  alt="支付宝"/>
 
 
